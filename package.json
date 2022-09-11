@@ -1,0 +1,10 @@
+{
+    "name": "Practice-12",
+    "private": true,
+    "scripts":{
+        "serve-node":"node server.js"
+    },
+    "devDependencies": {
+        "live-server": "^1.1.0"
+    }
+}
